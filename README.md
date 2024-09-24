@@ -1,4 +1,4 @@
-![MasterHead]([https://your-image-link-here.com](https://github.com/Numan-Aktas/NUMAN-AKTAS/blob/main/image/github.jpg))
+![MasterHead](https://github.com/Numan-Aktas/NUMAN-AKTAS/blob/main/image/github.jpg)
 
 <h1 align="center">Hi 👋, I'm Numan Aktaş</h1>
 <h3 align="center">Mechatronics Engineer | Aviation, Robotics, and AI Enthusiast</h3>
